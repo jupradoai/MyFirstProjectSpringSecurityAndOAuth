@@ -1,2 +1,1 @@
-# MyFirstProjectSpringSecurityAndOAuth
-# MyFirstProjectSpringSecurityAndOAuth
+Working whit Spring Security and OAuth;
